@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MyWebApiApp.Controllers.Model;
+using MyWebApiApp.Model;
 
 namespace MyWebApiApp.Controllers
 {

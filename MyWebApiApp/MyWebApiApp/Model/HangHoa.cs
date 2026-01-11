@@ -1,4 +1,4 @@
-﻿namespace MyWebApiApp.Controllers.Model
+﻿namespace MyWebApiApp.Model
 {
     public class HangHoaVM
     {
